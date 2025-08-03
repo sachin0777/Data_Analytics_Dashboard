@@ -1,6 +1,6 @@
 # 🌦️ Interactive Weather Analytics Dashboard  
 
-![Dashboard Preview](./images/dashboard_preview.png)  
+![Dashboard Preview](./dashboard.png)  
 
 ## 📌 Overview  
 This project is an **interactive Weather Analytics Dashboard built with Power BI**, designed to provide real-time weather and air quality insights.  
