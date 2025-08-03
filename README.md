@@ -25,7 +25,7 @@ It demonstrates the complete **data analytics workflow** — from data collectio
 ---
 
 ## 🗂️ Data Model  
-![Data Model](./images/data_model.png)  
+![Data Model](./datamodel.png)  
 
 The dashboard uses a relational model for efficient analysis:  
 
@@ -69,10 +69,8 @@ The dashboard uses a relational model for efficient analysis:
 ## 📸 Screenshots  
 
 ### Dashboard View  
-![Dashboard View](./images/dashboard_preview.png)  
-
-### Data Model  
-![Data Model](./images/data_model.png)  
+![Dashboard View](./dashboardprev.png)  
+ 
 
 ---
 
